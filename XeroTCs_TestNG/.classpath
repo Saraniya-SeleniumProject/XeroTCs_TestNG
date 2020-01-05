@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Selenium Jars-20191229T030359Z-001.zip"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/testng-6.8.5.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/selenium-java-2.48.2.zip"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/apache-maven-3.6.2-bin.zip"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/jar_files org.apache.poi.zip"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/senid/Downloads/Extent Report Jars-20191229T030334Z-001/Extent Report Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
